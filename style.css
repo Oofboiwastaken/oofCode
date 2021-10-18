@@ -1,0 +1,47 @@
+/* TODO make website actually look good */
+body {
+    background: black;
+}
+h1 {
+    color:rgb(255, 145, 0);
+    font-size: 75px;
+    font-family: 'Trebuchet MS';
+}
+
+/* TODO */
+button {
+    font-family: 'Trebuchet MS';
+    font-weight: bolder;
+    padding: 50px,200px;
+    cursor: pointer;
+    font-size: 40px;
+    color: rgb(255, 145, 0);
+    border-color: black;
+    background:rgb(0, 0, 0);
+}
+
+
+button:hover {
+    background-color: rgb(39, 39, 39);
+    color:rgb(255, 145, 0)
+}
+p:hover {
+    background-color: rgb(39, 39, 39);
+    color: rgb(255, 145, 0);
+}
+p {
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    color: #ff9100
+}
+
+img {
+    height: 100px;
+    width: 200px
+} 
+
+#orangeHighlight {
+    background-color: #ff9100;
+    color: #000
+}
+
